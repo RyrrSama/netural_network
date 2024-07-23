@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: neural-network
+Version: 0.1
+Summary: Custom neural network package (Experimental package)
+Requires-Python: >=3.7
+Provides-Extra: dev

@@ -1,0 +1,11 @@
+setup.py
+src/neural_network/__init__.py
+src/neural_network/layer.py
+src/neural_network/mlp.py
+src/neural_network/neuron.py
+src/neural_network/value.py
+src/neural_network.egg-info/PKG-INFO
+src/neural_network.egg-info/SOURCES.txt
+src/neural_network.egg-info/dependency_links.txt
+src/neural_network.egg-info/requires.txt
+src/neural_network.egg-info/top_level.txt
